@@ -217,7 +217,7 @@ export const freeMusicData = {
 // ============================================
 export const contactData = {
   heading: "LET'S BUILD SOMETHING.",
-  email: "andreas@studio.com",
+  email: "eu.renderman@gmail.com",
   phone: "+1 (555) 234-5678",
   location: "Global / Remote",
   availability: "Currently accepting projects for Q3 2025",
