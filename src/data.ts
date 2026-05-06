@@ -7,7 +7,7 @@
 export const siteConfig = {
   name: "Andreas",
   title: "3D Visualizer & Spatial Designer",
-  email: "andreas@studio.com",
+  email: "eu.renderman@gmail.com",
   social: {
     x: "https://twitter.com/andreas_visual",
     linkedin: "https://linkedin.com/in/andreas-visual",
