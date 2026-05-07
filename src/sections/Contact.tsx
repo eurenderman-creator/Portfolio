@@ -26,7 +26,7 @@ export default function Contact() {
               className="flex items-center gap-3 bg-[#111111] text-white px-8 py-4 text-[13px] font-medium uppercase tracking-[2px] font-body hover:bg-[#333333] transition-colors"
             >
               <Mail size={16} />
-              Kirim Email
+              email us
             </a>
             <a
               href={waLink}
