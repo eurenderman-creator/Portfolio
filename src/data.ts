@@ -9,7 +9,7 @@ export const siteConfig = {
   title: "3D Visualizer & Spatial Designer",
   email: "eu.renderman@gmail.com",
   social: {
-    x: "https://twitter.com/andreas_visual",
+    x: "https://twitter.com/eurenderman",
     linkedin: "https://linkedin.com/in/",
     instagram: "https://instagram.com/eu.renderman",
   },
