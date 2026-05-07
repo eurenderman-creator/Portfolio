@@ -11,7 +11,7 @@ export const siteConfig = {
   social: {
     x: "https://twitter.com/andreas_visual",
     linkedin: "https://linkedin.com/in/andreas-visual",
-    instagram: "https://instagram.com/andreas.visual",
+    instagram: "https://instagram.com/eu.renderman",
   },
   experience: "16+",
 };
