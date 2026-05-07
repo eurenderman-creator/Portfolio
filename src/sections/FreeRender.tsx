@@ -104,7 +104,7 @@ export default function FreeRender() {
                     <input
                       type="text"
                       name="name"
-                      placeholder="Andreas Visuals"
+                      placeholder="your name"
                       required
                       value={formData.name}
                       onChange={handleChange}
@@ -118,7 +118,7 @@ export default function FreeRender() {
                     <input
                       type="email"
                       name="email"
-                      placeholder="you@studio.com"
+                      placeholder="your email"
                       required
                       value={formData.email}
                       onChange={handleChange}
