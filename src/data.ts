@@ -10,7 +10,7 @@ export const siteConfig = {
   email: "eu.renderman@gmail.com",
   social: {
     x: "https://twitter.com/andreas_visual",
-    linkedin: "https://linkedin.com/in/andreas-visual",
+    linkedin: "https://linkedin.com/in/",
     instagram: "https://instagram.com/eu.renderman",
   },
   experience: "16+",
